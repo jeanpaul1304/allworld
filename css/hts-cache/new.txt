@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:54:02	122296/122296	---MCZ	200	added ('OK')	text/css	etag:W/%225492c812-1ddb8%22	http://spacer.pryanik.co/css/bootstrap.css	C:/Users/1/Desktop/allworldweb/css/bootstrap.css	(from )
+20:54:02	33731/33731	---MCZ	200	added ('OK')	text/css	etag:W/%225492c812-83c3%22	http://spacer.pryanik.co/css/style.css	C:/Users/1/Desktop/allworldweb/css/style.css	(from )
+20:54:03	17780/17780	---MCZ	200	added ('OK')	text/css	etag:W/%225492c813-4574%22	http://spacer.pryanik.co/fonts/font-awesome/css/font-awesome.min.css	C:/Users/1/Desktop/allworldweb/css/font-awesome.min.css	(from )

@@ -1,0 +1,28 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 02 Jan 2017 20:39:23 at http://spacer.pryanik.co/js/jquery-1.11.0.min.js http://spacer.pryanik.co/js/jquery-migrate-1.2.1.js http://spacer.pryanik.co/js/jquery.easing.1.3.js http://spacer.pryanik.co/js/smoothscroll.js http://spacer.pryanik.co/js/jquery.bgswitcher.js http://spacer.pryanik.co/js/stellar.js http://spacer.pryanik.co/js/jquery.bxslider.js http://spacer.pryanik.co/js/jquery.countdown.js http://spacer.pryanik.co/js/waypoints.min.js http://spacer.pryanik.co/js/bootstrap.min.js http://spacer.pryanik.co/js/jquery.form.js http://spacer.pryanik.co/js/jquery.validate.min.js http://spacer.pryanik.co/js/additional-methods.min.js http://spacer.pryanik.co/js/validate-contact-form.js http://spacer.pryanik.co/js/retina-1.1.0.min.js http://spacer.pryanik.co/js/loader.js http://spacer.pryanik.co/js/main.js +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qgC2%Ps2u1%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" http://spacer.pryanik.co/js/jquery-1.11.0.min.js http://spacer.pryanik.co/js/jquery-migrate-1.2.1.js http://spacer.pryanik.co/js/jquery.easing.1.3.js http://spacer.pryanik.co/js/smoothscroll.js http://spacer.pryanik.co/js/jquery.bgswitcher.js http://spacer.pryanik.co/js/stellar.js http://spacer.pryanik.co/js/jquery.bxslider.js http://spacer.pryanik.co/js/jquery.countdown.js http://spacer.pryanik.co/js/waypoints.min.js http://spacer.pryanik.co/js/bootstrap.min.js http://spacer.pryanik.co/js/jquery.form.js http://spacer.pryanik.co/js/jquery.validate.min.js http://spacer.pryanik.co/js/additional-methods.min.js http://spacer.pryanik.co/js/validate-contact-form.js http://spacer.pryanik.co/js/retina-1.1.0.min.js http://spacer.pryanik.co/js/loader.js http://spacer.pryanik.co/js/main.js -O1 "C:\Users\1\Desktop\allworldweb\js" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery-1.11.0.min.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery-migrate-1.2.1.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery.easing.1.3.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/smoothscroll.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery.bgswitcher.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/stellar.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery.bxslider.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery.countdown.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/waypoints.min.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/bootstrap.min.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery.form.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/jquery.validate.min.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/additional-methods.min.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/validate-contact-form.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/retina-1.1.0.min.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/loader.js
+20:39:31	Warning: 	Warning: store application/x-javascript without scan: C:/Users/1/Desktop/allworldweb/js/main.js
+
+HTTrack Website Copier/3.48-22 mirror complete in 8 seconds : 17 links scanned, 17 files written (376723 bytes overall) [115728 bytes received at 14466 bytes/sec], 376723 bytes transferred using HTTP compression in 17 files, ratio 29%, 4.2 requests per connection
+(No errors, 17 warnings, 0 messages)
