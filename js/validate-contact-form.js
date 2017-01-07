@@ -10,8 +10,7 @@ $(function() {
                 email: true
             },
             tel:{
-                required: false,
-                phoneUS: true
+                required: false
             },
             message: {
                 required: true,
@@ -20,18 +19,18 @@ $(function() {
         },
         messages: {
             name: {
-                required: "Name is required",
-                minlength: "At least 2 characters"
+                required: "Tu nombre es requerido",
+                minlength: "Ingresa al menos 2 caracteres"
             },
             email: {
-                required: "Email is required"
+                required: "El email es requerido"
             },
             tel: {
-                required: "Please specify a valid phone number"
+                required: "Especifica un número valido"
             },
             message: {
-                required: "Message is required",
-                minlength: "At least 5 characters"
+                required: "El mensaje es requerido",
+                minlength: "Al menos 5 caracteres"
             }
         },
         submitHandler: function(form) {

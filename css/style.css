@@ -20,7 +20,7 @@ i{
 }
 
 span{
-	color:#ff551a;
+	color:#3098bf;
 }
 
 span.dropcap{
@@ -28,7 +28,7 @@ span.dropcap{
 	float: left;
 	text-align: center;
 	font-size: 24px;
-  	background:#ff551a;
+  	background:#3098bf;
   	color:#fff;
   	width:40px;
   	height:40px;
@@ -58,7 +58,7 @@ span.dropcap{
 	display: inline-block;
 	width: 0;
 	height: 100%;
-	color: #ff551a;
+	color: #3098bf;
 	content: attr(data-content);
 	text-align: left;
 	white-space: nowrap;
@@ -87,7 +87,7 @@ span.dropcap{
 }
 
 #section1 .container{
-	padding:12% 0;
+	padding:9% 0;
 	position: relative;
 	height:100%;
 }
@@ -237,7 +237,7 @@ h1{
 #section2 nav .search:hover,
 #section2 nav #menu-button:focus,
 #section2 nav #menu-button:hover{
-	background: #ff551a;
+	background: #3098bf;
 	color:#fff;
 
 	-webkit-transition: all 0.3s;
@@ -337,7 +337,7 @@ header .divider .line{
 }
 
 header .divider i{
-	color:#ff551a;
+	color:#3098bf;
 	margin-top: 10px; 
 	padding:0 5px;
 }
@@ -390,7 +390,7 @@ header .divider i{
 }
  
 .about-slider .bx-pager div a:after {
-    background-color: #ff551a;
+    background-color: #3098bf;
 }
  
 .about-slider .bx-pager div a:hover,
@@ -446,7 +446,7 @@ header .divider i{
 
 .about ul li i{
 	padding:0 5px;
-	color:#ff551a;
+	color:#3098bf;
 	font-size: 14px;
 }
 
@@ -832,7 +832,7 @@ header .divider i{
 
 .service h6{
 	font-weight: 300;
-	color:#ff551a;
+	color:#3098bf;
 	margin-bottom: 18px;
 }
 
@@ -906,7 +906,17 @@ header .divider i{
 #section6 .possibilities{
 	right:-30px;
 }
+.possibilities .nav{
+	text-align: center;
+}
+.possibilities .nav li{
+	float:none;
+	display: inline-block;
+}
 
+.possibilities .nav li a{
+	border-radius: 0;
+}
 /**********************
 ******=section7*****
 **********************/
@@ -942,7 +952,7 @@ header .divider i{
 
 .testimonial .details i{
 	padding:9px 9px;
-	background: #ff551a;
+	background: #3098bf;
 	color:#fff;
 	font-size: 14px;
 	float:left;
@@ -1006,7 +1016,9 @@ header .divider i{
 ******=section8*****
 **********************/
 
-
+#section8{
+	background: #f5f5f5;
+}
 
 .team-member{
 	position: relative;
@@ -1277,7 +1289,7 @@ header .divider i{
 }
 
 #section10 h2{
-	color:#ff551a;
+	color:#3098bf;
 	font-weight: 100;
 	text-transform: uppercase;
 	margin-top: 140px;
@@ -1547,7 +1559,7 @@ address{
 
 a:hover,
 a:focus {
-  color: #ff551a;
+  color: #3098bf;
   text-decoration: none;
 }
 
@@ -1756,10 +1768,10 @@ a:focus {
 		padding-left:10px;
 		padding-right: 10px;
 	}
-	#section1 .container{
+/*	#section1 .container{
 		padding:40% 0;
 	}
-
+*/
 	h1{
 		font-size: 46px;
 		line-height: 46px;
@@ -1821,7 +1833,7 @@ a:focus {
 
 	#section9 ul li {
 		padding:0 20px;
-		margin: 0px;
+		margin: 15px 0px;
 	}
 
 	.form .col-md-6 {
@@ -1831,9 +1843,9 @@ a:focus {
 }
 
 @media (min-width: 480px) and (max-width: 639px) {
-	#section1 .container{
+	/*#section1 .container{
 		padding:40% 20px;
-	}
+	}*/
 
 	h1{
 		font-size: 46px;
@@ -1959,11 +1971,11 @@ a:focus {
 		padding: 0 20px;
 	}
 
-		#section2 .container{
+		/*#section2 .container{
 		padding-left: 0;
 		padding-right: 0;
 	}
-
+*/
 	#section2 nav ul{
 		width:100%;
 		display: none;
@@ -2052,13 +2064,13 @@ a:focus {
 }
 
 @media (max-width: 767px) and (orientation: landscape) {
-	#section1 h4, #section1 p{
+	/*#section1 h4, #section1 p{
 		display: none;
 	}
 	#section1 .container{
 		padding:10px 0;
 	}
-
+	*/
 	#section1 a{
 		margin-top:10px;
 	}
@@ -2071,9 +2083,9 @@ a:focus {
 
 @media (min-width: 768px) and (max-width: 991px) {
 	
-	#section1 .container{
+	/*#section1 .container{
 		padding:40% 0;
-	}
+	}*/
 
 	h1{
 		font-size: 50px;
@@ -2163,7 +2175,7 @@ a:focus {
 
 @media (min-width: 992px) and (max-width: 1199px) {
 	#section1 .container{
-		padding:15% 0;
+		padding:5% 0;
 	}
 
 	.about-slider{
