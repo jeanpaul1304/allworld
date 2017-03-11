@@ -2247,3 +2247,6 @@ nav h1{
     margin-left: 10px;
     color: #444;
 }
+.progress-bar-danger{
+	background: #3098bf;
+}

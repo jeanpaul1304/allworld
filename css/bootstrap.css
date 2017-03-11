@@ -286,7 +286,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #ff551a;
+  color: #3098bf;
   text-decoration: none;
 }
 a:focus {
@@ -2015,8 +2015,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #ff551a;
-  border-color: #ff551a;
+  background-color: #3098bf;
+  border-color: #3098bf;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -2240,7 +2240,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #ff551a;
+  color: #3098bf;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -3404,7 +3404,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .input-group-btn > .btn:hover,
 .input-group-btn > .btn:active {
   z-index: 2;
-  background-color: #ff551a;
+  background-color: #3098bf;
 }
 .nav {
   margin-bottom: 0;
@@ -4617,7 +4617,7 @@ a.thumbnail.active {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-danger {
-  background-color: #ff551a;
+  background-color: #3098bf;
 }
 .progress-striped .progress-bar-danger {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
