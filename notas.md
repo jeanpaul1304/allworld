@@ -1,0 +1,6 @@
+- 16 logos de navieras (revisar los logos)
+- slider en logos de empresas
+- Agregar mapa a lo del contacto
+- Agregar texto a ingles
+- agregar iconos a informacion de contacto
+- cambiar imagenes de ipad y quitar el borde del ipad
