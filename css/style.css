@@ -587,7 +587,7 @@ header .divider i{
 	color:#fff;
 	opacity: 0;
 	display: inline-block;
-	line-height: 57px;
+	line-height: 48px;
 	top: 50%;
 	margin-top: -24px;
 
@@ -1332,6 +1332,8 @@ header .divider i{
 	background-image: url(../img/section11.png);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	background-position: center center !important;
+    background-size: cover !important;
 }
 
 #section11 header h3 {
@@ -1358,6 +1360,17 @@ address p{
 
 address{
 	margin-bottom: 30px;
+}
+address p{
+	padding-left: 25px;
+	position: relative;
+	line-height: 1.2em;
+}
+
+address p i {
+	position: absolute;
+	top:3px;
+	left:0;
 }
 
 .social li{
@@ -2241,10 +2254,42 @@ nav h1{
 	background: #3098bf;
 }
 
-.work{
-	width: 12.5%;
-}
-
 .gallery{
 	font-size: 0;
+}
+
+.gallery > a{
+	height: 100%;
+    vertical-align: middle;
+    top: 50%;
+    position: absolute;
+	z-index: 1;
+	margin-top:-20px;
+	font-size: 0;
+}
+
+.gallery > a i{
+	vertical-align: middle;
+	display: inline-block;
+	font-size: 46px;
+	color:#fff;
+	text-shadow: 1px 1px 1px #333;
+}
+
+.gallery .prev{
+    left: 10px;
+}
+
+.gallery .next{
+	right: 10px;
+}
+
+.work{
+	width: 12.5%;
+	font-size: 20px;
+}
+
+#map{
+	height: 300px;
+	width: 100%;
 }
