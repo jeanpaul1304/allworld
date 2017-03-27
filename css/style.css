@@ -183,7 +183,7 @@ h1{
 }
 
 #section2 nav img{
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
 #section2 nav .menu{
@@ -584,13 +584,12 @@ header .divider i{
 	text-align: center;
 	width:48px;
 	height: 48px;
-	padding-top:15px;
 	color:#fff;
 	opacity: 0;
-	top:50%;
-	left:50%;
-	margin:-24px 0 0 -24px;
-	display: block;
+	display: inline-block;
+	line-height: 57px;
+	top: 50%;
+	margin-top: -24px;
 
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -2162,11 +2161,6 @@ a:focus {
 		padding:0 80px 0;
 	}
 
-	.work .overlay a{
-		top:15%;
-		left:50%;
-		margin:-24px 0 0 -24px;
-	}
 
 	#section7  .clients{
 		margin-top: 0px;
@@ -2210,11 +2204,7 @@ a:focus {
 		padding-top: 11px;
 	}
 
-	.work .overlay a{
-		top:13%;
-		left:50%;
-		margin:-24px 0 0 -24px;
-	}
+
 
 }
 
@@ -2245,7 +2235,7 @@ nav h1{
     line-height: 38px;
     margin-top: 22px;
     margin-left: 10px;
-    color: #444;
+    color:#297399;
 }
 .progress-bar-danger{
 	background: #3098bf;
@@ -2253,4 +2243,8 @@ nav h1{
 
 .work{
 	width: 12.5%;
+}
+
+.gallery{
+	font-size: 0;
 }
