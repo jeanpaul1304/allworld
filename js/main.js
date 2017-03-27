@@ -306,4 +306,15 @@ $(window).load(function(){
 			onUpdate: null,  // callback method for every time the element is updated,
 			onComplete: null,  // callback method for when the element finishes updating
 		};
+
+
+
 	})(jQuery);
+	$('.gallery').slick({
+	infinite: true,
+	slidesToShow: 4,
+	autoplay:true,
+	autoplaySpeed: 1200,
+	prevArrow:"<a href='javascript:;' class='prev'><i class='fa fa-angle-left'></i></a>",
+	nextArrow:"<a href='javascript:;' class='next'><i class='fa fa-angle-right'></i></a>",
+	});
