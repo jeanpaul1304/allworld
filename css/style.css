@@ -357,7 +357,7 @@ header .divider i{
 	left:0;
 	width:100%;
 	height: 100%;
-	background-image: url(../img/iPad.png);
+	/*background-image: url(../img/iPad.png);*/
 	background-repeat: no-repeat;
 	background-position: center 40px;
 }
@@ -530,7 +530,7 @@ header .divider i{
 }
 
 .work .preview>img{
-	max-width: 100%;
+	width: 100%;
 }
 
 .work .overlay{
@@ -588,7 +588,7 @@ header .divider i{
 	opacity: 0;
 	display: inline-block;
 	line-height: 48px;
-	top: 50%;
+	top: 41%;
 	margin-top: -24px;
 
 	-webkit-border-radius: 50%;
@@ -871,7 +871,7 @@ header .divider i{
 .progress-bar{
 	text-align: left;
 	padding:6px 8px;
-	width:0;
+	width:100%;
 
 	-webkit-transition: all 1s;
 	-moz-transition: all 1s;
@@ -2256,6 +2256,7 @@ nav h1{
 
 .gallery{
 	font-size: 0;
+	padding: 30px 0px 0 0;
 }
 
 .gallery > a{
@@ -2272,7 +2273,7 @@ nav h1{
 	vertical-align: middle;
 	display: inline-block;
 	font-size: 46px;
-	color:#fff;
+	color:#3098bf;
 	text-shadow: 1px 1px 1px #333;
 }
 
@@ -2292,4 +2293,30 @@ nav h1{
 #map{
 	height: 300px;
 	width: 100%;
+}
+.ctn-language{
+	position: fixed;
+	top: 20px;
+	right:10px;
+	width: 42px;
+	height:38px;
+	list-style:none;
+	padding:0;
+	z-index:9999;
+	text-align: center;
+	line-height: 38px;
+	overflow: hidden;	
+}
+.ctn-language:hover{
+	height: 76px;
+}
+.ctn-language li{
+	background: #3098bf;
+}
+
+.ctn-language li:hover{
+	background: #2087ae;
+}
+.ctn-language a{
+	color:#fff;
 }

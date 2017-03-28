@@ -312,9 +312,9 @@ $(window).load(function(){
 	})(jQuery);
 	$('.gallery').slick({
 	infinite: true,
-	slidesToShow: 4,
-	autoplay:true,
-	autoplaySpeed: 1200,
+	slidesToShow: 10,
+	autoplay:false,
+	autoplaySpeed: 2000,
 	prevArrow:"<a href='javascript:;' class='prev'><i class='fa fa-angle-left'></i></a>",
 	nextArrow:"<a href='javascript:;' class='next'><i class='fa fa-angle-right'></i></a>",
 	});
