@@ -312,9 +312,36 @@ $(window).load(function(){
 	})(jQuery);
 	$('.gallery').slick({
 	infinite: true,
-	slidesToShow: 10,
-	autoplay:false,
+	slidesToShow: 8,
+	autoplay:true,
 	autoplaySpeed: 2000,
 	prevArrow:"<a href='javascript:;' class='prev'><i class='fa fa-angle-left'></i></a>",
 	nextArrow:"<a href='javascript:;' class='next'><i class='fa fa-angle-right'></i></a>",
+	responsive: [
+    {
+      breakpoint: 1024,
+      settings: {
+        slidesToShow: 6,
+        slidesToScroll: 6,
+        infinite: true
+      }
+    },
+    {
+      breakpoint: 750,
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 4
+      }
+    },
+    {
+      breakpoint: 520,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
 	});

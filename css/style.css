@@ -1187,6 +1187,7 @@ header .divider i{
 #section9 ul li{
 	padding: 0;
 	margin-right: 120px;
+	vertical-align: top;
 }
 
 #section9 ul li:last-child{
@@ -1551,7 +1552,7 @@ address p i {
 }
 
 #section11{
-	padding-bottom: 100px;
+	padding-bottom: 15px;
 }
 
 #section11 .col-md-4{
@@ -1828,7 +1829,7 @@ a:focus {
 		padding: 0 50px 0;
 	}
 
-	#section3,#section6, #section7, #section8,#section11{
+	#section3, #section7, #section8,#section11{
 		padding-left: 80px;
 		padding-right: 80px;
 	}
@@ -2319,4 +2320,7 @@ nav h1{
 }
 .ctn-language a{
 	color:#fff;
+}
+.rights{
+	margin-top:20px;
 }
