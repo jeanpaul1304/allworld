@@ -346,7 +346,7 @@ header .divider i{
 	position: relative;
 	margin-top: 5px;
 	padding-left:14px;
-	padding-top:140px;
+		padding-top:26px;
 	text-align: center;
 	
 }
@@ -2152,7 +2152,7 @@ a:focus {
 		background-color: #fff;
 		margin:0 auto;
 		padding-left: 14px;
-		padding-top:120px;
+		padding-top:26px;
 		text-align: center;
 	}
 
